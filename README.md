@@ -66,11 +66,11 @@ We ran an ANOVA, F = 5.23, p = .001. The correlation was r = .42.
 
 ## License
 
-All rights reserved. © 2025 Kadir
+All rights reserved. © 2025 Kadir TOROS
 
 ## Support
 
-Questions or issues? Please contact: kadir@example.com
+Questions or issues? Please contact: kdrtoros@gmail.com
 
 ---
 
